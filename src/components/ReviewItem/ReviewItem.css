@@ -1,0 +1,21 @@
+.review-item {
+  border: 1px solid orange;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 21px;
+  display: flex;
+}
+
+.review-item img {
+  width: 91px;
+}
+
+.item-details p {
+  margin: 0;
+}
+
+/* .review-item-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+} */
